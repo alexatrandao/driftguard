@@ -318,11 +318,10 @@ MIT License - See LICENSE file for details
 
 ## Contact
 
-Built by [Your Name/Team] for IBM Bob Dev Day Hackathon 2024
+Built by DriftGuard for IBM Bob Dev Day Hackathon 2024
 
-**Repository:** [GitHub URL]  
-**Demo Video:** [YouTube URL]  
-**Presentation:** [Slides URL]
+**Repository:** [GitHub URL](https://github.com/alexatrandao/driftguard)  
+**Demo Video:** [YouTube URL](https://www.youtube.com/watch?v=444NO2XGGrk)
 
 ---
 
