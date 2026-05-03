@@ -1,0 +1,17 @@
+{
+  "name": "driftguard",
+  "version": "1.0.0",
+  "description": "AI-powered architectural compliance system built on IBM Bob",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "architecture",
+    "compliance",
+    "bob",
+    "ai"
+  ],
+  "author": "",
+  "license": "ISC"
+}
