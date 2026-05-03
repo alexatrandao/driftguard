@@ -97,30 +97,6 @@ Applies precise fixes to violations with explicit approval at each step.
 
 ---
 
-## Demo Flow (3 Minutes)
-
-1. **Show the problem** (30 sec)
-   - Open `demo-target/ARCHITECTURE.md` - rules in plain English
-   - Open `demo-target/src/` - code with intentional violations
-
-2. **Run Reviewer** (60 sec)
-   - `/driftguard demo-target/`
-   - Show structured report with violations, severities, and fixes
-
-3. **Apply fixes** (60 sec)
-   - `/driftguard-fix`
-   - Show diff, approve, see fix applied
-   - Show fix summary with test recommendations
-
-4. **Discover patterns** (30 sec)
-   - `/driftguard-suggest demo-target/`
-   - Show suggested rules with evidence and confidence levels
-   - Highlight a high-confidence rule ready to document
-
-**Key message:** Write rules in English → Bob enforces them → Bob discovers new ones
-
----
-
 ## Why Bob Specifically?
 
 DriftGuard is built on IBM Bob because Bob's architecture makes English-rule enforcement uniquely effective:
